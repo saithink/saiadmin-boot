@@ -30,7 +30,7 @@ saiadmin-boot 是一个整合了 `saiadmin后端` 和 `saiadmin-vue前端` 的�
 只需要一个命令即可下载项目
 
 ```bash
-#github
+# github
 git clone --recurse-submodules https://github.com/saithink/saiadmin-boot.git
 # gitee
 git clone --recurse-submodules https://gitee.com/saigroup/saiadmin-boot
